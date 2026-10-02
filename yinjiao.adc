@@ -1,0 +1,42 @@
+set_pin_assignment	{ IN1A }	{ LOCATION = A4; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ IN1B }	{ LOCATION = A5; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ IN2A }	{ LOCATION = D1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ IN2B }	{ LOCATION = C1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ IN3A }	{ LOCATION = B1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ IN3B }	{ LOCATION = A3; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; SLEWRATE = FAST; }
+set_pin_assignment	{ IN4A }	{ LOCATION = F1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ IN4B }	{ LOCATION = E1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ PWMA }	{ LOCATION = G1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ PWMB }	{ LOCATION = H1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ PWMC }	{ LOCATION = J1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ PWMD }	{ LOCATION = K2; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ buzzer }	{ LOCATION = G2; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ clk }	{ LOCATION = A8; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ dht11 }	{ LOCATION = D2; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = PULLUP; }
+set_pin_assignment	{ lcd_data[0] }	{ LOCATION = R5; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[1] }	{ LOCATION = R6; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[2] }	{ LOCATION = R7; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[3] }	{ LOCATION = B6; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[4] }	{ LOCATION = B5; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[5] }	{ LOCATION = B4; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[6] }	{ LOCATION = B3; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_data[7] }	{ LOCATION = C2; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_en }	{ LOCATION = R4; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_rs }	{ LOCATION = R1; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ lcd_rw }	{ LOCATION = R3; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 16; PULLTYPE = NONE; }
+set_pin_assignment	{ line_sensor[0] }	{ LOCATION = L2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ line_sensor[1] }	{ LOCATION = M2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ line_sensor[2] }	{ LOCATION = N2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ line_sensor[3] }	{ LOCATION = P2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ obs_sensor[0] }	{ LOCATION = E2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ obs_sensor[1] }	{ LOCATION = F2; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ rst_n }	{ LOCATION = P4; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+
+
+
+
+
+
+
+
+

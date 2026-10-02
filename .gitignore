@@ -1,0 +1,45 @@
+# FPGA 构建产物
+*_Runs/
+*_Runs/
+syn_*/
+phy_*/
+impl_*/
+build/
+output/
+
+# TD (Tang Dynasty) 临时文件
+*.log
+*.logw
+*.jou
+*.tmp
+*.bak
+*.dmp
+*.rpt
+*.qor
+*.status
+*.area
+
+# 比特流和数据库文件
+*.bit
+*.bin
+*.db
+*.ts
+*.bid
+*.timing
+
+# 流程标记文件
+.begin.f
+.end.f
+.param.f
+.temp.f
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
